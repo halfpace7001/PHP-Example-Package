@@ -1,0 +1,15 @@
+{
+    "name": "itsystm-019/calculator",
+    "autoload": {
+        "psr-4": {
+            "Its\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abhishek Kumar Gupta",
+            "email": "abhishekgupta.its@itspectrumsolutions.com"
+        }
+    ],
+    "require": {}
+}
